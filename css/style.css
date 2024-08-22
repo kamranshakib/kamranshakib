@@ -1,0 +1,190 @@
+
+body{
+    text-align: center;
+    margin: 0%;
+}
+
+
+.first-section{
+  
+    background-color: rgb(228,253,253);
+  
+
+}
+.myname{
+    font-family: segoe script;
+    padding-top: 150px;
+    margin-top: 0%;
+font-size: 50px;
+}
+
+h1,h2,h3{
+ color: rgb(133, 192, 206);
+
+
+
+}
+.moutain{
+    width: 800px;
+    position: relative;
+    margin-left: 100px;
+    margin-right: 90px;
+
+}
+
+
+
+.cloud1{
+    position: absolute;
+    left: 100px;
+    width: 150px;
+    top: 250px;
+}
+
+.cloud2{
+    width: 150px;
+    position: absolute;
+    right: 100px;
+    top: 70px;
+}
+
+
+.myphoto{
+    border-radius: 100px;
+   
+}
+
+.contact{
+    text-align: left;
+    margin-top: 300px;
+    border: 10px;
+   
+    width: 200px;
+    margin: 30px auto 30px auto;
+    padding-top: 50px; 
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+.programer{
+    font-size: 40px;
+}
+
+
+.img1{
+    float: left;
+}
+.img2{
+    float: right;
+}
+
+
+
+
+.myphotoandname{
+    width: 300px;
+    margin: 30px auto 30px auto;
+
+}
+p{
+    line-height: 30px;
+}
+hr{ border: 5px dotted ;
+    width: 20px;
+    border-bottom: 0px;
+    margin: 100px auto 100px auto;
+}
+
+
+.myskiils{
+    width: 40%;
+    margin: 40px auto 40px auto;
+}
+
+
+
+
+.myskils2{
+    width: 60%;
+    margin-top: 40px;
+}
+
+
+
+.p1{
+    font-size: 15px;
+}
+.p2{
+    font-size: 15pxpx;
+
+}
+.touch{
+    background-color: brown;
+    width: 200px;
+    border: 0px;
+    border-radius:10px ;
+    padding: 10px;
+margin-top: 20px;
+
+}
+
+
+.footer{
+    background-color: rgb(164, 102, 160);
+    margin-top: 50px;
+
+}
+
+
+a{
+    text-decoration: dashed ;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    font-size: 20px;
+
+}
+
+.gmail{
+    margin-right: 10px;
+    text-align: left;
+}
+
+.num{
+    margin-left: 300px;
+}
+
+.bodycontact{
+    background-color: rgb(130, 189, 241);
+}
+ 
+
+
+input{
+    border: 1px;
+    border-radius: 10px;
+    padding: 10px;
+}
+label{
+    font-weight: 900;
+}
+
+.touch2{
+    background-color: brown;
+margin-top: 10px;
+    border: 0px;
+    padding: 10px;
+    width: 100px;
+    margin-left: 45px;
+
+}
+.area{
+    margin-left: px;
+    border-radius: 10px;
+    padding: 10px;
+    padding-bottom: 10px;
+}
