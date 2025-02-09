@@ -18,17 +18,9 @@
 - **Backend:** Node.js, Express.js, MongoDB, WebSockets
 - **Frontend:** HTML, CSS, jQuery
 - **Authentication:** JWT
-- **Tools & Platforms:** Git, GitHub, Docker, Postman
+- **Tools & Platforms:** Git, GitHub, Postman
 - **Other Interests:** Real-time Databases, Chat Systems, Electron.js
 
----
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamran-shakib&show_icons=true&theme=dark)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamran-shakib&layout=compact&theme=dark)
-
----
 
 ### 📫 Contact Me:
 📧 Email: Kamranshakib371@gmail.com  
