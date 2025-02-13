@@ -1,30 +1,31 @@
+<h1 align="center">Hi there 👋</h1>
 
-### Hi there! 👋 I am **Kamran Shakib**
+I'm a **Backend Developer** who loves working with **Node.js, Express, and MySQL** to build high-performance web applications. 🚀  
 
-🚀 **Backend Developer** | 💻 **Node.js & MongoDB Enthusiast** | 🌍 **Passionate about Real-time Systems**
+## 💻 I love working with  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
----
+## 🚀 I'm working on  
+🔹 Developing real-time chat applications.  
+🔹 Enhancing my Q&A website with new features.  
 
-### About Me:
-🔹 A passionate **backend developer** who loves building scalable and real-time applications.<br>
-🔹 Experienced in **Node.js, MongoDB, Express.js, Socket.io, JWT Authentication**.<br>
-🔹 Currently working on a **Chat Application** and a **Q&A Website (.bot)**.<br>
-🔹 Learning **Electron.js** to convert web apps into desktop applications.<br>
-🔹 Interested in **Educational Platforms** and creating **Management Systems**.
+## 📚 I'm learning  
+![WebSockets](https://img.shields.io/badge/WebSockets-008CBA?style=for-the-badge)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
 
----
+## 🤝 I'm looking for help with  
+🔹 Scaling my applications for high traffic.  
 
-### 🛠️ Technologies & Tools:
-- **Backend:** Node.js, Express.js, MongoDB, WebSockets
-- **Frontend:** HTML, CSS, jQuery
-- **Authentication:** JWT
-- **Tools & Platforms:** Git, GitHub, Postman
-- **Other Interests:** Real-time Databases, Chat Systems, Electron.js
+## 📫 How to reach me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamran-shakib)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamran-shakib)  
 
-
-### 📫 Contact Me:
-📧 Email: Kamranshakib371@gmail.com  
-🔗 LinkedIn: (https://www.linkedin.com/in/kamran-shakib)  
+## 🔥 Fun fact  
+I love solving complex backend challenges!  
 
 
-Let's connect and collaborate! 🚀
+
+
