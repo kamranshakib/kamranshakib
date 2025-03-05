@@ -1,4 +1,4 @@
-![kamran shakib ](https://github.com/kamranshakib.png)
+
 <h1 align="center">Hi there 👋</h1>
 
 I'm a **Backend Developer** who loves working with **Node.js, Express, and MongoDB** to build high-performance web applications. 🚀  
