@@ -15,7 +15,7 @@ I'm a **Backend Developer** who loves working with **Node.js, Express, and Mongo
 
 ## 📚 I'm learning  
 ![TypeScript](https://img.shields.io/badge/TypeScript-008CBA?style=for-the-badge) &nbsp;
-![Nestjs](https://img.shields.io/badge/Nestjs-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
+![Nest.js](https://img.shields.io/badge/Nestjs-DC382D?style=for-the-badge&logo=nest&logoColor=white)  
 
 
 ## 🤝 I'm looking for help with  
