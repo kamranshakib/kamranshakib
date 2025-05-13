@@ -14,7 +14,7 @@ I'm a **Backend Developer** who loves working with **Node.js, Express, and Mongo
 - Enhancing my Q&A website with new features.  
 
 ## 📚 I'm learning  
-![WebSockets](https://img.shields.io/badge/WebSockets-008CBA?style=for-the-badge) &nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-008CBA?style=for-the-badge) &nbsp;
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
 
 
