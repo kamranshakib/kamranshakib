@@ -17,8 +17,8 @@ I'm a **Backend Developer** who loves working with **Node.js, Express, and Mongo
 - Developing real-time chat applications.  
 - Enhancing my Q&A website with new features.  
 
-##  I'm learning  
-![Nest.js](https://img.shields.io/badge/Nestjs-DC382D?style=for-the-badge&logo=nest&logoColor=white)  
+##  I'm currently learning  
+![AI Engineering](https://img.shields.io/badge/AI%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 
 ##  I'm looking for help with  
